@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CryptoAppAS</string>
+    <string name="void_data">--:--:--</string>
+    <string name="symbol_tamplate">%s / %s</string>
+    <string name="last_update_template"> Время последнего обновления: %s</string>
+    <string name="label_update">Обновленно:</string>
+    <string name="label_last_use">Последняя сделка:</string>
+    <string name="label_max">Максимум за день:</string>
+    <string name="label_min">Минимум за день:</string>
+    <string name="slash">/</string>
+    <string name="USD">USD</string>
+    <string name="priceLabel">Цена:</string>
+</resources>
